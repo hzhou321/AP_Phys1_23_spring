@@ -22,6 +22,7 @@
     * kind of force -- gravity (g), normal force (perp to the surface), friction (tangential), asserted force (push/pull), spring (kx)
     
 * Energy
+    * A principle, things don't change on its own, so there is a quantity being conserved and --
     * Every interaction transfers something 
     * No F, v is constant -- E associated with v
     * With F, v changed, -- E changed with v --> E = 1/2 mv2 --> triangle 
