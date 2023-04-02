@@ -2,6 +2,8 @@
 
 * Sunday 12:30-1:55pm  3/5, 3/12, 3/19, 4/2, 4/9, 4/16, 4/23, 4/30
 
+* AP phys 1 Exam Date: 5/11/2023
+
 * Space and Time
     * Space - 3D - s, l - meter (m) or km
          * Pythagoras theorem -- its length is invariable 
