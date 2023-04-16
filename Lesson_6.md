@@ -20,3 +20,7 @@ I w = (1.5I) (1/1.5 w)
 
 
 ![image](https://user-images.githubusercontent.com/71202720/232334488-ebcbe07f-38d0-448d-b4b0-78ae6071ffe6.png)
+ 
+ * 100 N  * l * cos(t) = 100N * l/2 * cos(t) + 100N * 0.5 * l * sin(t)
+ * 50 = 50 tag(t)
+ * t = 45
